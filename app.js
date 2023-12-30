@@ -190,7 +190,7 @@ $('#submit').click(function () {
     
     The FTP Command will review each FTO Feedback that is completed by a  trainee. This will remain confidential information between FTP Command and the trainee. The information will be used to improve the overall performance of the FTO as a trainer and evaluator.
     
-    [b][url=https://docs.google.com/forms/d/e/1FAIpQLScx0885aRp4uJtaxZPbAC_qyHoN5LFQ40XyXEpwymcfN5ay8A/viewform]FTO Feedback Form[/url][/b][/justify][/td][/tr][/transtable]`
+    [b][url=https://forms.gle/9FAHRxbyJYHfxa119]FTO Feedback Form[/url][/b][/justify][/td][/tr][/transtable]`
 
     $('#output').val(output);
 });
